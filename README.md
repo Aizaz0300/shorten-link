@@ -28,5 +28,4 @@ A full-stack URL shortener service with built-in analytics tracking.
 
 - `POST /api/shorten` - Shorten a URL
 - `GET /:shortId` - Redirect to original URL
-- `GET /api/analytics/:shortId` - Get analytics for a URL
 - `GET /analytics/:shortId` - Get analytics data and optionally redirect
